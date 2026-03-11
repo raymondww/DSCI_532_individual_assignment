@@ -3,7 +3,7 @@
 
 An interactive dashboard exploring 25 seasons of English Premier League data (2000/01 – 2024/25) built with Shiny for R.
 
-[![Deployed App](https://img.shields.io/badge/Live%20App-Posit%20Connect-blue?logo=r)](https://your-posit-connect-url)
+[![Deployed App](https://img.shields.io/badge/Live%20App-Posit%20Connect-blue?logo=r)](https://raymondww-dsci-532-individual-assignment.share.connect.posit.cloud)
 
 ---
 
