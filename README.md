@@ -40,8 +40,8 @@ install.packages(c(
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/epl-dashboard.git
-   cd epl-dashboard
+   git clone git@github.com:raymondww/DSCI_532_individual_assignment.git
+   cd DSCI_532_individual_assignment
    ```
 
 2. Install packages (see above).
